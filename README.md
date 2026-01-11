@@ -14,17 +14,6 @@ I'm a passionate about learning and trying out new Techs
 
 `python` `django` `react` `nextjs` `typescript` `machine-learning` `sql` `tailwindcss`
 
-## My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&hide_border=true" />
-</p>
-
 
 ## Featured Projects
 
