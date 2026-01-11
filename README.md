@@ -54,6 +54,3 @@ Coming soon... (Currently working on new ML models and automation tools)
   <img src="https://komarev.com/ghpvc/?username=Saranyadharani&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>Open to Data Science & AI Engineering roles for 2024!</i>
-</p>
