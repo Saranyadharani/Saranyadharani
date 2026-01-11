@@ -25,9 +25,6 @@ I'm a passionate about learning and trying out new Techs
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&hide_border=true" />
 </p>
 
-## Top Repositories
-
-<!-- Add your pinned repositories here -->
 
 ## Featured Projects
 
