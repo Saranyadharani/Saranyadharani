@@ -12,7 +12,7 @@ I'm a passionate about learning and trying out new Techs
 
 ## Tech Stack
 
-`python` `django` `react` `nextjs` `typescript` `machine-learning` `sql` `tailwindcss`
+`python` `django` `react` `nextjs` `typescript` `machine-learning` `docker` `kubernetes`
 
 
 ## Featured Projects
