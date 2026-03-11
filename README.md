@@ -35,7 +35,5 @@ Coming soon... (Currently working on new ML models and automation tools)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saranyadharani&color=blue&style=flat" alt="Profile views" />
 </p>
 
