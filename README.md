@@ -1,21 +1,50 @@
-# Hello, I'm Saranya 
-I do open source & build AI solutions :)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Saranya;AI+%26+Full+Stack+Developer;Building+Real+World+Solutions+🚀" />
+</p>
 
-I'm a passionate about learning and trying out new Techs
+<h3 align="center">I do open source & build AI solutions :)</h3>
 
-## About me
+---
 
-- 💼 **Operations & Automation Analyst** at Bulkaroma
-- 🏆 **Built** Vigilante Scanner (Hackathon Runner-up), 2nd Runner Up at NUERA Hackathon
-- ❤️ **I love** building data-driven applications with Python, Django, and React
-- 💬 **Ask me about** AI projects, hackathons, or full-stack development
+## 🚀 About me
 
-## Tech Stack
+- 💼 **Operations & Automation Analyst** at Bulkaroma  
+- 🏆 **Built** Vigilante Scanner (Hackathon Runner-up), 2nd Runner Up at NUERA Hackathon  
+- ❤️ **I love** building data-driven applications with Python, Django, and React  
+- 💬 **Ask me about** AI projects, hackathons, or full-stack development  
 
-`python` `django` `react` `nextjs` `typescript` `machine-learning` `docker` `kubernetes`
+---
 
+## 💻 Tech Stack
 
-## Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,typescript,docker,kubernetes" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Saranyadharani&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 ### 🛡️ Vigilante Scanner
 **2nd Runner Up at NUERA Hackathon** - AI-powered website security analyzer  
@@ -28,12 +57,21 @@ I'm a passionate about learning and trying out new Techs
 ### 🤖 More AI Projects
 Coming soon... (Currently working on new ML models and automation tools)
 
-## Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranya-dharani/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saranyadharani84@gmail.com)
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saranya-dharani/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saranyadharani84@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  ✨ Turning ideas into intelligent systems ✨
 </p>
-
