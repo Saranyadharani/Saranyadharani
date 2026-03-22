@@ -36,15 +36,7 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🛡️ Vigilante Scanner
 **2nd Runner Up at NUERA Hackathon** - AI-powered website security analyzer  
@@ -57,18 +49,15 @@
 ### 🤖 More AI Projects
 Coming soon... (Currently working on new ML models and automation tools)
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranya-dharani/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saranyadharani84@gmail.com)
+
 ---
 
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saranya-dharani/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saranyadharani84@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
+
 
 ---
 
