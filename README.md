@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Saranya;AI+%26+Full+Stack+Developer;Building+Real+World+Solutions+" />
 </p>
 
-<h3 align="center">I do open source & build AI solutions :)</h3>
 
 ---
 
