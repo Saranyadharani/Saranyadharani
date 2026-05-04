@@ -9,7 +9,7 @@
 
 ## About me
 
-- 🏆 **Built** Vigilante Scanner (Hackathon Runner-up), 2nd Runner Up at NUERA Hackathon  
+- 🏆 **Built** Vigilante Scanner , 2nd Runner Up at NUERA Hackathon  
 - ❤️ **I love** building data-driven applications with Python, Django, and React  
 - 💬 **Ask me about** AI projects, hackathons, or full-stack development  
 
