@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Saranya;AI+%26+Full+Stack+Developer;Building+Real+World+Solutions+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Saranya;AI+%26+Full+Stack+Developer;Building+Real+World+Solutions" />
 </p>
-
-
-
 
 ---
 
@@ -26,12 +23,12 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Saranyadharani&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" />
 </p>
 
 ---
@@ -53,11 +50,6 @@ Coming soon... (Currently working on new ML models and automation tools)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranya-dharani/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saranyadharani84@gmail.com)
-
----
-
-</p>
-
 
 ---
 
