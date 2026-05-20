@@ -20,15 +20,23 @@
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=darkhub&no-frame=true&row=1&column=4" />
 </p>
 
 ---
@@ -43,13 +51,13 @@
 **24-Hour Hackathon Project** - AI-driven inventory management system  
 `React` `TypeScript` `Supabase` `Vercel`
 
-### 🤖 More AI Projects
-Coming soon... (Currently working on new ML models and automation tools)
+---
 
-## Connect with me
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranya-dharani/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saranyadharani84@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saranyadharani)
 
 ---
 
