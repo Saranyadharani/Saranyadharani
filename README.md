@@ -23,17 +23,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=Saranyadharani&theme=transparent&hide_border=true" />
 </p>
 
 ---
