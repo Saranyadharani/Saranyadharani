@@ -23,12 +23,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
 </p>
 
 ---
@@ -36,9 +41,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=darkhub&no-frame=true&row=1&column=4" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
-
 ---
 
 ## Featured Projects
