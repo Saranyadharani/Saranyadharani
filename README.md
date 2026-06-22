@@ -23,33 +23,57 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats - Fixed -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Top Languages - Fixed -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph - Fixed with fallback -->
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&cache_seconds=1800" alt="GitHub Activity Graph" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
-<!-- Alternative if the above fails - Uncomment this section -->
-<!-- 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
--->
 
 ---
 
 ## 🏆 Achievements
 
+<!-- Option 1: Simple Stats Cards (Most Reliable) -->
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=darkhub&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
+
+<!-- Option 2: Compact Achievement Badges (Alternative) -->
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/-2nd%20Runner%20Up%20%40%20NUERA%20Hackathon-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%20%26%20Full%20Stack%20Developer-00D2FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python%20%7C%20Django%20%7C%20React-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+-->
+
+<!-- Option 3: Manual Achievement Cards (Most Customizable) -->
+<!--
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
+        <br/><strong>2nd Runner Up</strong>
+        <br/>NUERA Hackathon
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/>
+        <br/><strong>AI Developer</strong>
+        <br/>Full Stack Expert
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="30"/>
+        <br/><strong>Python</strong>
+        <br/>Django & React
+      </td>
+    </tr>
+  </table>
+</p>
+-->
 
 ---
 
