@@ -9,7 +9,7 @@
 - 🏆 **Built** Vigilante Scanner , 2nd Runner Up at NUERA Hackathon  
 - ❤️ **I love** building data-driven applications with Python, Django, and React  
 - 💬 **Ask me about** AI projects, hackathons, or full-stack development  
-- 🎓 **3rd year** B.Tech in AI & Data Science at MNM Jain Engineering College (CGPA: 8.9)
+- 🎓 **4th year** B.Tech in AI & Data Science at MNM Jain Engineering College (CGPA: 8.9)
 - 🚀 **Open to** 2026 SDE/Full-Stack Internship roles
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
