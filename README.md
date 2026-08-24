@@ -26,13 +26,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saranyadharani&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 🏆 Achievements
@@ -45,11 +39,11 @@
 
 ## Featured Projects
 
-### 🛡️ Vigilante Scanner
+### Vigilante Scanner
 **2nd Runner Up at NUERA Hackathon** - AI-powered website security analyzer  
 `Next.js` `Django` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
-### 📦 SmartProcure
+### SmartProcure
 **24-Hour Hackathon Project** - AI-driven inventory management system  
 `React` `TypeScript` `Supabase` `Vercel`
 
