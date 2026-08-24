@@ -23,16 +23,13 @@
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saranyadharani&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
