@@ -10,7 +10,7 @@
 - ❤️ **I love** building data-driven applications with Python, Django, and React  
 - 💬 **Ask me about** AI projects, hackathons, or full-stack development  
 - 🎓 **4th year** B.Tech in AI & Data Science at MNM Jain Engineering College (CGPA: 8.9)
--  **Open to** 2026 SDE/Full-Stack Internship roles
+-    **Open to** 2026 SDE/Full-Stack Internship roles
 
 ---
 
