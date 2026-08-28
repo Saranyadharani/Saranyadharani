@@ -24,7 +24,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saranyadharani&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Achievements
