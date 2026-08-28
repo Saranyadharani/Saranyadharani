@@ -23,10 +23,7 @@
 ---
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Saranyadharani/Saranyadharani/main/metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ## 🏆 Achievements
