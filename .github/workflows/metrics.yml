@@ -16,7 +16,7 @@ jobs:
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          user_id: <YOUR_NUMERIC_GITHUB_USER_ID>
+          user_id: 202994004
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: streak.svg
       - name: Commit and push
