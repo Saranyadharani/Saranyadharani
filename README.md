@@ -23,9 +23,13 @@
 ---
 
 ## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Saranyadharani?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Saranyadharani?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/Saranyadharani/Saranyadharani?label=Last%20Commit&style=social" alt="Last Commit" />
 </p>
+
 
 ## 🏆 Achievements
 <p align="center">
