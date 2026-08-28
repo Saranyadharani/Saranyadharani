@@ -1,23 +1,28 @@
-name: GitHub Metrics
+name: Update streak stats
 on:
   schedule:
-    - cron: '0 0 * * *'   
-  workflow_dispatch:        
+    - cron: "0 3 * * *"   # runs daily at 3 AM UTC
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
 
 jobs:
-  github-metrics:
+  update-streak-svg:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Saranyadharani
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
+          user_id: <YOUR_NUMERIC_GITHUB_USER_ID>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: streak.svg
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git diff --staged --quiet || git commit -m "Update streak.svg"
+          git push
