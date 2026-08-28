@@ -21,15 +21,13 @@
 </p>
 
 ---
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Saranyadharani?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Saranyadharani?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/Saranyadharani/Saranyadharani?label=Last%20Commit&style=social" alt="Last Commit" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saranyadharani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🏆 Achievements
 <p align="center">
