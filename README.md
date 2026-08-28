@@ -23,11 +23,10 @@
 ---
 ## GitHub Stats
 <p align="center">
-  <img src="https://stats.quira.sh/Saranyadharani?theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saranyadharani&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://stats.quira.sh/Saranyadharani/top-langs?theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ## 🏆 Achievements
