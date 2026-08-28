@@ -21,9 +21,9 @@
 </p>
 
 ---
-## GitHub Stats
+## GitHub Streak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saranyadharani/Saranyadharani/main/metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Saranyadharani/Saranyadharani/main/streak.svg" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Achievements
