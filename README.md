@@ -23,13 +23,10 @@
 ---
 ## GitHub Stats
 <p align="center">
-  <img src="https://gprm.vercel.app/api?username=Saranyadharani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/Saranyadharani?label=Followers&style=for-the-badge&color=0891b2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Saranyadharani?label=Stars&style=for-the-badge&color=0891b2" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/Saranyadharani/Saranyadharani?label=Last%20Commit&style=for-the-badge&color=0891b2" alt="Last Commit" />
 </p>
-
-<p align="center">
-  <img src="https://gprm.vercel.app/api/top-langs/?username=Saranyadharani&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Saranyadharani&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
